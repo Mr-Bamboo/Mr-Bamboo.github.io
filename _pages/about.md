@@ -35,6 +35,17 @@ I am a Ph.D. student in the [LEVIR lab.](http://levir.buaa.edu.cn/) at [Beihang 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WHISPERS 2024</div><img src='images/LAVER.png' alt="LAVER" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Leveraging Language-Aligned Visual Knowledge for Remote Sensing Image Spectral Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10876515)
+
+**Bowen Chen**, Keyan Chen, Liqin Liu, Zhenwei Shi, Zhengxia Zou
+
+[**Code**](https://github.com/Mr-Bamboo/LAVER) | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10876515)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/SCDM.png' alt="SCDM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
