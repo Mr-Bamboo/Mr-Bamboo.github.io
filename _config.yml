@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bowen Chen <br /> （陈博文）"
-  avatar           : "images/chenbowen.jpg"
+  avatar           : "images/chenbowen.png"
   bio              : "Levir Lab"
   location         : "Beijing, China"
   employer         :
