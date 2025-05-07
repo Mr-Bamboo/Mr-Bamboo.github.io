@@ -8,51 +8,59 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Ph.D. student in the [LEVIR lab.](http://levir.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Zhenwei Shi](http://levir.buaa.edu.cn/) and Prof. [Zhengxia Zou](https://zhengxiazou.github.io/). Previously, I received my bachelor’s degree from [China University of Petroleum (East China)](https://www.upc.edu.cn/) in June 2022. My research involves **computer vision**, **remote sensing image processing**, and **super-resolution**.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📰 News
+<li><strong>[Apr. 2025]</strong> One paper is accepted by <strong style="color: red;">GRSL</strong> (<strong>IF=4.0, Q1</strong>) in 2024.</li>
+<li><strong>[Oct. 2024]</strong> One paper is accepted by <strong>IEEE WHISPERS 2024</strong> (Poster, Helsinki, Finland).</li>
+<li><strong>[Aug. 2024]</strong> One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.2, Q1</strong>) in 2024.</li>
+<li><strong>[Dec. 2023]</strong> Awarded the <strong style="color: red;">National Scholarship</strong>.</li>
+<li><strong>[Jun. 2023]</strong> One paper is accepted by <strong style="color: red;">Rempte Sensing</strong> (<strong>IF=5.0, Q1</strong>) in 2023.</li>
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2025</div><img src='images/MFG-HMoE.png' alt="MFG-HMoE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Heterogeneous Mixture of Experts for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/document/10949132)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Bowen Chen**, Keyan Chen, Mohan Yang, Zhengxia Zou, Zhenwei Shi
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/Mr-Bamboo/MFG-HMoE) | [**Paper**](https://ieeexplore.ieee.org/document/10949132) | [**Arxiv**](https://arxiv.org/abs/2502.09654)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/SCDM.png' alt="SCDM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spectral-Cascaded Diffusion Model for Remote Sensing Image Spectral Super-Resolution](https://ieeexplore.ieee.org/document/10654291)
+
+**Bowen Chen**, Liqin Liu, Chenyang Liu, Zhengxia Zou, Zhenwei Shi
+
+[**Code**](https://github.com/Mr-Bamboo/SCDM) | [**Paper**](https://ieeexplore.ieee.org/document/10654291)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2023</div><img src='images/HTD-Review.png' alt="HTD-Review" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Target Detection in Hyperspectral Remote Sensing Image: Current Status and Challenges](https://ieeexplore.ieee.org/document/10654291)
+
+**Bowen Chen**, Liqin Liu, Zhengxia Zou, Zhenwei Shi
+
+[**Paper**](https://www.mdpi.com/2072-4292/15/13/3223)
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12* National Scholarship. 
+- *2022.06* Outstanding Undergraduate Thesis of China University of Petroleum (East China). 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - now*, Ph.D, Beihang University. 
+- *2018.09 - 2022.06*, Undergradute, China University of Petroleum (East China) 
