@@ -16,6 +16,7 @@ I am a Ph.D. student in the [LEVIR lab.](http://levir.buaa.edu.cn/) at [Beihang 
 
 
 # 📰 News
+<li><strong>[May. 2025]</strong> Outstanding winner of the <strong style="color: red;">Capital Challenge Cup</strong>.</li>
 <li><strong>[Apr. 2025]</strong> One paper is accepted by <strong style="color: red;">GRSL</strong> (<strong>IF=4.0, Q1</strong>) in 2025.</li>
 <li><strong>[Oct. 2024]</strong> One paper is accepted by <strong style="color: red;">IEEE WHISPERS 2024</strong> (Poster, in Helsinki, Finland).</li>
 <li><strong>[Aug. 2024]</strong> One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.2, Q1</strong>) in 2024.</li>
