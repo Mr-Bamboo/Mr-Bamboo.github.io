@@ -16,6 +16,7 @@ I am a Ph.D. student in the [LEVIR lab.](http://levir.buaa.edu.cn/) at [Beihang 
 
 
 # 📰 News
+<li><strong>[Sept. 2025]</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
 <li><strong>[May. 2025]</strong> Outstanding winner of the <strong style="color: red;">Capital Challenge Cup</strong>.</li>
 <li><strong>[Apr. 2025]</strong> One paper is accepted by <strong style="color: red;">GRSL</strong> (<strong>IF=4.0, Q1</strong>) in 2025.</li>
 <li><strong>[Oct. 2024]</strong> One paper is accepted by <strong style="color: red;">IEEE WHISPERS 2024</strong> (Poster, in Helsinki, Finland).</li>
@@ -25,7 +26,19 @@ I am a Ph.D. student in the [LEVIR lab.](http://levir.buaa.edu.cn/) at [Beihang 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2025</div><img src='images/MFG-HMoE.png' alt="MFG-HMoE" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SeG-SR.png' alt="SeG-SR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SeG-SR: Integrating Semantic Knowledge Into Remote Sensing Image Super-Resolution via Vision-Language Model](https://ieeexplore.ieee.org/document/11175207)
+
+**Bowen Chen**, Keyan Chen, Mohan Yang, Zhengxia Zou, Zhenwei Shi
+
+[**Code**](https://github.com/Mr-Bamboo/SeG-SR) | [**Paper**](https://ieeexplore.ieee.org/document/11175207) | [**Arxiv**](https://arxiv.org/abs/2505.23010)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SeG-SR.png' alt="SeG-SR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Heterogeneous Mixture of Experts for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/document/10949132)
