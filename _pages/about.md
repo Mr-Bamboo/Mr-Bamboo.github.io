@@ -38,7 +38,7 @@ I am a Ph.D. student in the [LEVIR lab.](http://levir.buaa.edu.cn/) at [Beihang 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SeG-SR.png' alt="SeG-SR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2025</div><img src='images/MFG-HMoE.png' alt="MFG-HMoE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Heterogeneous Mixture of Experts for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/document/10949132)
